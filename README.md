@@ -2,8 +2,8 @@
 
 **Deine Finanzen im Blick – privat, offline und im Rhythmus deines Gehalts.**
 
-Dieses Repository enthält **nur die fertigen App-Versionen** (APK) des Haushaltsbuchs.
-Der Quellcode ist privat.
+Dieses Repository enthält **nur die fertigen App-Versionen** (APK) des Haushaltsbuchs – immer die
+**neuesten 5 Versionen**. Der Quellcode ist privat.
 
 ## Installieren
 
@@ -18,6 +18,9 @@ Voraussetzung: Android 8.0 oder neuer.
 Ab Version 2.12 prüft die App selbst, ob es hier eine neue Version gibt
 (**Einstellungen → App-Updates**), lädt sie auf Wunsch herunter, prüft Prüfsumme und Signatur
 und installiert sie. Deine Daten bleiben dabei erhalten.
+
+Was sich je Version geändert hat, steht beim jeweiligen Release und in der App unter
+**Einstellungen → Über → Versionshinweise**.
 
 ## Datenschutz
 
